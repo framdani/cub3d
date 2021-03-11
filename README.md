@@ -3,7 +3,7 @@ This project is inspired by the world-famous game "Wolfenstein 3D" which is the 
 
 In this project we have to make a dynamic view inside a maze, in which the player have to find his way.
 
-Resources :
+# Resources :
 
 https://harm-smits.github.io/42docs/libs/minilibx/events.html
 
