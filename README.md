@@ -6,6 +6,8 @@ In this project we have to make a dynamic view inside a maze, in which the playe
 Resources :
 
 https://harm-smits.github.io/42docs/libs/minilibx/events.html
+
 https://lodev.org/cgtutor/raycasting.html
+
 https://lmcnulty.gitlab.io/blog/bmp-output/
 
