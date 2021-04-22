@@ -30,9 +30,9 @@ To exit the game, press ESC or click the red cross.
 
 ## Some resources
 
-*[Minilibx Documentation](https://harm-smits.github.io/42docs/libs/minilibx/events.html)
+[Minilibx Documentation](https://harm-smits.github.io/42docs/libs/minilibx/events.html)
 
-*[Images in Minilibx](https://github.com/keuhdall/images_example)
+[Images in Minilibx](https://github.com/keuhdall/images_example)
 
 [Raycasting](https://lodev.org/cgtutor/raycasting.html)
 
