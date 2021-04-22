@@ -5,7 +5,8 @@ A representation of a 3D first-person maze using raycasting, similar to Wolfenst
 The project runs using the MiniLibX. It can therefore only run in MacOS, preferably on a computer with a solid CPU.
 
 ## The mandatory part
-To test the original game : [Wolfenstein](http://users.atw.hu/wolf3d/)
+To test the original game : [Wolfenstein](http://users.atw.hu/wolf3d/).
+
 The basic program that was required to pass. It only includes wall textures and a sprite ; no floor/ceiling textures, no weapons, no enemies.
 
 ## Usage
