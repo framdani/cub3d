@@ -22,7 +22,7 @@ make
 ```
 ## controls
 
-* You can move around the maze with <span color ="red">W</span> A S D.
+* You can move around the maze with W A S D.
 
 * You can also rotate the view with the directional arrows ← and →.
 
