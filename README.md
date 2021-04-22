@@ -28,7 +28,7 @@ make
 
 * To exit the game, press ESC or click the red cross.
 
-## Some resources
+## Useful links
 
 [Minilibx Documentation](https://harm-smits.github.io/42docs/libs/minilibx/events.html)
 
