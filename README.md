@@ -28,11 +28,14 @@ You can also rotate the view with the directional arrows ← and →.
 
 To exit the game, press ESC or click the red cross.
 
-## Resources
+## Some resources
 
-https://harm-smits.github.io/42docs/libs/minilibx/events.html
+[Minilibx Documentation](https://harm-smits.github.io/42docs/libs/minilibx/events.html)
 
-https://lodev.org/cgtutor/raycasting.html
+[Images in Minilibx](https://github.com/keuhdall/images_example)
 
-https://lmcnulty.gitlab.io/blog/bmp-output/
+[Raycasting](https://lodev.org/cgtutor/raycasting.html)
+
+[BMP format](https://lmcnulty.gitlab.io/blog/bmp-output/)
+
 
