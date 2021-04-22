@@ -22,11 +22,11 @@ make
 ```
 ## controls
 
-You can move around the maze with W A S D.
+* You can move around the maze with W A S D.
 
-You can also rotate the view with the directional arrows ← and →.
+* You can also rotate the view with the directional arrows ← and →.
 
-To exit the game, press ESC or click the red cross.
+* To exit the game, press ESC or click the red cross.
 
 ## Some resources
 
