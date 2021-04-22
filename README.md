@@ -1,6 +1,31 @@
 # cub3d
-This project is inspired by the world-famous game "Wolfenstein 3D" which is the first true “First Person Shooter” in the history of video games.
-We have to make a dynamic view inside a maze, in which the player have to find his way.
+A representation of a 3D first-person maze using raycasting, similar to Wolfenstein 3D.
+
+# Prerequisites
+The project runs using the MiniLibX. It can therefore only run in MacOS, preferably on a computer with a solid CPU.
+
+# The mandatory part
+To test the original game : http://users.atw.hu/wolf3d/
+The basic program that was required to pass. It only includes wall textures and a sprite ; no floor/ceiling textures, no weapons, no enemies.
+
+# Usage
+```
+# generate the executable
+make
+
+# To launch it
+./cub3D maps/map.cub
+
+# To save a screenshoot
+./cub3D maps/map.cub --save
+```
+# controls
+
+You can move around the maze with W A S D.
+
+You can also rotate the view with the directional arrows ← and →.
+
+To exit the game, press ESC or click the red cross.
 
 # Resources
 
