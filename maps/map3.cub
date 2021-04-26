@@ -3,11 +3,11 @@ NO        ./textures/bluestone.xpm
 SO ./textures/bluestone.xpm
 WE ./textures/bluestone.xpm
 EA ./textures/redbrick.xpm
-S ./textures/redbrick.xpm
+S ./textures/barrel.xpm
 
-C  0,0,0
+C  125,20,50
 
-F    224,224,224
+F    130, 130, 130
                                                         11111111111111111111111111111111111111111111111
                                                        100000000000000000000000000000000000000000000011
       1111111111111111111111111111111111111111         1000000000000000000000000000000000000000000000011
