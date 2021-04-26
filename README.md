@@ -8,7 +8,9 @@ The project runs using the MiniLibX. It can therefore only run in MacOS, prefera
 To test the original game : [Wolfenstein](http://users.atw.hu/wolf3d/).
 
 The basic program that was required to pass. It only includes wall textures and a sprite ; no floor/ceiling textures, no weapons, no enemies.
-
+<p align = "center">
+  <img src=""/>
+</p>
 ## Usage
 ```
 # generate the executable
