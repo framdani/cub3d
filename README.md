@@ -11,6 +11,7 @@ The basic program that was required to pass. It only includes wall textures and 
 <p align = "center">
   <img src="https://github.com/framdani/cub3d/blob/main/textures/example.png"/>
 </p>
+
 ## Usage
 ```
 # generate the executable
