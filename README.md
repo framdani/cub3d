@@ -9,7 +9,7 @@ To test the original game : [Wolfenstein](http://users.atw.hu/wolf3d/).
 
 The basic program that was required to pass. It only includes wall textures and a sprite ; no floor/ceiling textures, no weapons, no enemies.
 <p align = "center">
-  <img src="https://github.com/framdani/cub3d/blob/main/example.png"/>
+  <img src="https://github.com/framdani/cub3d/blob/main/textures/example.png"/>
 </p>
 ## Usage
 ```
@@ -39,5 +39,3 @@ make
 [Raycasting](https://lodev.org/cgtutor/raycasting.html)
 
 [BMP format](https://lmcnulty.gitlab.io/blog/bmp-output/)
-
-
