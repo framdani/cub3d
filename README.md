@@ -1,5 +1,6 @@
 ## cub3d
 A representation of a 3D first-person maze using raycasting, similar to Wolfenstein 3D.
+The project runs using the MiniLibX.
 
 ## The mandatory part
 To test the original game : [Wolfenstein](http://users.atw.hu/wolf3d/).
