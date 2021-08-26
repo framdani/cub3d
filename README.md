@@ -1,9 +1,6 @@
 ## cub3d
 A representation of a 3D first-person maze using raycasting, similar to Wolfenstein 3D.
 
-## Prerequisites
-The project runs using the MiniLibX. It can therefore only run in MacOS, preferably on a computer with a solid CPU.
-
 ## The mandatory part
 To test the original game : [Wolfenstein](http://users.atw.hu/wolf3d/).
 
